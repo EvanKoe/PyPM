@@ -48,6 +48,7 @@ def toClip():
   tk.clipboard_clear()
   return tk.clipboard_append(res.get())
 
+print('loul tu vas push gros fdp')
 # Canvas
 cleft = Canvas(tk, bg='#212121')
 cleft.grid()
