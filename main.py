@@ -50,6 +50,7 @@ def toClip():
 
 print('Loul')
 print('Constantin')
+print('merge 2')
 
 # Canvas
 cleft = Canvas(tk, bg='#212121')
